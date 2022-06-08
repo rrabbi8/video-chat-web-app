@@ -4,6 +4,6 @@ Simple group video chat app built using plain HTML, CSS, JavaScript and the Agor
 
 # Installation
 
-- 1 - clone repo
+- 1 - clone repo https://github.com/rrabbi8/video-chat-web-app.git
 - 2 - Create an account on agora.io and get APP ID, Temp Token and Channel Name
 - 3 - Update APP ID, Temp Token and Channel Name in script.js
